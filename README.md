@@ -16,6 +16,8 @@ Sube los archivos de Moodle al servidor y sigue el asistente de instalación.
 Inicia sesión como administrador.
 Cambia el correo electrónico, la contraseña y añade un avatar.
 
+<img src="moodle 1.png" width="700" height="500">
+
 ### 2.2 Configuración del Sitio
 Cambia el nombre del sitio en `Administración del sitio > Primera plana > Parámetros`.
 Oculta la página principal para usuarios no autenticados.
@@ -23,10 +25,19 @@ Verifica la franja horaria en `Administración del sitio > Ubicación > Parámet
 Cambia el idioma en `Administración del sitio > Idioma > Parámetros` y descarga nuevos paquetes de idioma si es necesario.
 Ajusta la política de contraseñas en `Administración del sitio > Seguridad > Normativas del sitio`.
 
+<img src="moodle 4.png" width="700" height="500">
+
+
+<img src="moodle6.png" width="700" height="500">
+ 
 ## 3. Creación y Gestión de Cursos
 ### 3.1 Crear Cursos
 Crea un curso **A** con 3 temas y un curso **B** con 5 temas en `Administración del sitio > Gestiona cursos y categorías`.
 Añade contenido (ejemplo: documentos PDF).
+
+<img src="moodle9.png" width="700" height="500">
+
+ad
 
 ### 3.2 Administración de Usuarios
 Crea manualmente un usuario `Bob`.
