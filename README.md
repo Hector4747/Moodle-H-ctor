@@ -52,7 +52,7 @@ Elimina 2 alumnos desde `Acciones con usuarios en bloque`.
 
 <img src="moodle12.png" width="700" height="500">
 
-
+<img src="usuarios1.png" width="700" height="500">
 
 <img src="moodle13.png" width="800" height="500">
 
