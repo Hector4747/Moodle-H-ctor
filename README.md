@@ -66,6 +66,10 @@ Matricula `Bob` como profesor en el curso B y los alumnos desde el CSV como estu
 Descarga e instala un nuevo tema en `Administración del sitio > Conectores > Instal·lar complemento`.
 Personaliza la cabecera y el pie de página.
 
+<img src="complementos1.png" width="700" height="500">
+
+<img src="complementos2.png" width="700" height="500">
+
 ## 5. Seguridad y Administración
 Banea una IP desde `Administración del sitio > Seguridad > Restricciones IP`.
 Aplica una política de seguridad justificando su necesidad.
@@ -76,7 +80,7 @@ Importa un curso de otro usuario.
 
 ## 7. Evaluaciones y Actividades
 ### 7.1 Creación de Actividades
-Crea actividades evaluables en el curso A.
+Crea actividades evaluables en el curso A. 
 Configura tareas con fecha de entrega.
 Crea un cuestionario con preguntas del banco de preguntas.
 
