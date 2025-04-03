@@ -37,17 +37,29 @@ Añade contenido (ejemplo: documentos PDF).
 
 <img src="moodle9.png" width="700" height="500">
 
-ad
+<img src="temab1.png" width="700" height="500">
+
+<img src="temab2.png" width="700" height="500">
+
+<img src="moodle10.png" width="800" height="500">
 
 ### 3.2 Administración de Usuarios
 Crea manualmente un usuario `Bob`.
 Genera 10 alumnos y súbelos mediante un archivo CSV (`Administración del sitio > Usuarios > Cargar usuarios`).
 Elimina 2 alumnos desde `Acciones con usuarios en bloque`.
 
+<img src="moodle11.png" width="700" height="500">
+
+<img src="moodle12.png" width="700" height="500">
+
+<img src="moodle13.png" width="800" height="500">
+
 ### 3.3 Matriculación de Usuarios
 Configura el curso A como público sin inscripción.
 Configura el curso B para inscripción manual.
 Matricula `Bob` como profesor en el curso B y los alumnos desde el CSV como estudiantes.
+
+<img src="moodle14.png" width="700" height="500">
 
 ## 4. Personalización
 ### 4.1 Cambiar Apariencia
