@@ -78,6 +78,10 @@ Personaliza la cabecera y el pie de página.
 
 <img src="complementos2.png" width="700" height="500">
 
+<img src="tema1.png" width="700" height="500">
+
+<img src="tema2.png" width="700" height="500">
+
 ## 5. Seguridad y Administración
 Banea una IP desde `Administración del sitio > Seguridad > Restricciones IP`.
 Aplica una política de seguridad justificando su necesidad.
