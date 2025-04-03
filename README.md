@@ -56,12 +56,18 @@ Elimina 2 alumnos desde `Acciones con usuarios en bloque`.
 
 <img src="moodle13.png" width="800" height="500">
 
+<img src="eliminar1.png" width="800" height="500">
+
 ### 3.3 Matriculación de Usuarios
 Configura el curso A como público sin inscripción.
 Configura el curso B para inscripción manual.
 Matricula `Bob` como profesor en el curso B y los alumnos desde el CSV como estudiantes.
 
 <img src="moodle14.png" width="700" height="500">
+
+<img src="matricula1.png" width="800" height="600">
+
+<img src="bobprofesor2.png" width="800" height="500">
 
 ## 4. Personalización
 ### 4.1 Cambiar Apariencia
