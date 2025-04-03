@@ -16,7 +16,6 @@ Sube los archivos de Moodle al servidor y sigue el asistente de instalación.
 Inicia sesión como administrador.
 Cambia el correo electrónico, la contraseña y añade un avatar.
 
-
 ### 2.2 Configuración del Sitio
 Cambia el nombre del sitio en `Administración del sitio > Primera plana > Parámetros`.
 Oculta la página principal para usuarios no autenticados.
