@@ -84,7 +84,14 @@ Personaliza la cabecera y el pie de página.
 
 ## 5. Seguridad y Administración
 Banea una IP desde `Administración del sitio > Seguridad > Restricciones IP`.
+
+<img src="ip1.png" width="700" height="500">
+
+<img src="ip2.png" width="700" height="500">
+
 Aplica una política de seguridad justificando su necesidad.
+
+<img src="ip3.png" width="700" height="500">
 
 ## 6. Importación y Exportación de Cursos
 Exporta un curso desde `Administración > Cursos > Copias` y envíalo a un compañero.
